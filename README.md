@@ -58,6 +58,9 @@ The solution reduces manual tagging delays, eliminates human error, and provides
 - Improve imbalance handling with advanced techniques (SMOTE for multilabel, threshold tuning).  
 - Expand categories beyond current 4 tags.
 
+  ## Live Demo
+  https://huggingface.co/spaces/Elluri/review-classification-app/blob/main/requirements.txt
+
   ## 👩‍💻 Author
 Developed by **Vaishnavi Elluri**  
 *Data Science & AI Enthusiast | Machine Learning | NLP | Streamlit Deployment*
